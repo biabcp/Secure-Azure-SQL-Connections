@@ -35,6 +35,9 @@ This project is intended to improve security by enforcing best practices.
 Always test the script in a controlled environment before applying changes to production systems.
 Use this project as a starting point for enhancing your organization's security measures.
 
+## License
+This project is licensed under the [MIT License](LICENSE).
+
 Disclaimer: This project is provided as-is and is intended for educational and informational purposes only. The author and contributors are not responsible for any misuse, damages, or consequences arising from the use of this project.
 
 
